@@ -1,0 +1,13 @@
+
+
+.todoItem {
+    display: flex;
+    margin: 10px;
+    width: 1%;
+
+}
+
+
+.completed {
+    text-decoration: line-through;
+}
